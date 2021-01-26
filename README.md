@@ -5,6 +5,6 @@
 </div>
 
 
-[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-game-js/Demo/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-js/Demo/)
 
 
